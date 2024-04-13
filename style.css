@@ -1,0 +1,36 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightseagreen;
+}
+.header_div{
+    background-color: rgb(139, 0, 81);
+    color: rgb(74, 227, 171);
+}
+.header_div p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: chartreuse;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+.main_div button{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    width: 130px;
+
+}
+.copy_right_footer{
+    position:fixed;
+    color: rgb(0, 18, 212);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    background-color: palevioletred;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;    
+}
